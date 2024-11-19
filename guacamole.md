@@ -1,8 +1,10 @@
 
+
 #Guacamole
 #Ingridients
 *avacado
 *lime
 *salt
-##Instructions
+*garlic
+##Instructions: mix everithing up
 #prices
