@@ -1,8 +1,8 @@
 
 #Guacamole
 #Ingridients
--avacado
--lemon
--salt
+*avacado
+*lime
+*salt
 ##Instructions
 
